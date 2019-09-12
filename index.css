@@ -1,0 +1,17 @@
+.redText{
+    color: red;
+}
+
+.blueText{
+    color: blue;
+}
+
+.pink{
+    background: green;
+    color: white;
+}
+
+.green{
+    background: orange;
+    color: pink;
+}
