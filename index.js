@@ -11,7 +11,7 @@ $('#myElement').click(function () {
 $('#green').addClass('pink');
 $('#pink').addClass('green');
 
-
+// !! : this function only runs once 
 $(document).ready( function () {
 
     $('#page').hide(1000,);
@@ -19,6 +19,7 @@ $(document).ready( function () {
 
 });
 
+// !! : the counter serves no purpose 
 counter = 0;
 $('#click').click(function () {
    $('tr').addClass('grayText');
